@@ -5,7 +5,7 @@
 以下是部分截图  
 ![登录界面](https://raw.githubusercontent.com/xcxmiku/SocketDemo/master/1.png）  
 登录界面  
-![主界面]（https://raw.githubusercontent.com/xcxmiku/SocketDemo/master/2.png）  
+![主界面](https://raw.githubusercontent.com/xcxmiku/SocketDemo/master/2.png）  
 主界面  
-![右键菜单]（https://raw.githubusercontent.com/xcxmiku/SocketDemo/master/3.png）  
+![右键菜单](https://raw.githubusercontent.com/xcxmiku/SocketDemo/master/3.png）  
 右键菜单（无效）  
